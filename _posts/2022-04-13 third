@@ -1,0 +1,12 @@
+``
+layout:post
+title: "for문 Range 사용"
+```
+<img width="258" alt="스크린샷 2022-04-13 오후 10 50 17" src="https://user-images.githubusercontent.com/100784510/163196999-ef222aea-7bab-42a2-92ca-5bb3575b2c83.png">
+
+1. 숫자를 입력 받고 싶을때는 input() 받는값의 type을 정해주기!!
+2. for문 range를 사용할때 for i in range(x,y) 라고 하면 x는 i의 값을 정해주고 y 지정값의 -1 까지 for문이 반복한다.
+
+
+#자꾸 까먹어서 여기라도 올리면서 기억하자...
+
